@@ -14,13 +14,13 @@ function Contact() {
                 </p>
                 
                 <div className="mt-8 flex justify-center space-x-4">
-                    <a className="text-white hover:text-amber-500" href="https://github.com">
+                    <a className="text-white hover:text-amber-500" href="https://github.com/TGCodinhoto" target="_blank">
                         <FontAwesomeIcon icon={faGithub} size="2xl" />
                     </a>
-                    <a className="text-white hover:text-amber-500" href="https://linkedin.com">
+                    <a className="text-white hover:text-amber-500" href="https://www.linkedin.com/in/thiago-gravonski/" target="_blank">
                         <FontAwesomeIcon icon={faLinkedin} size="2xl" />
                     </a>
-                    <a className="text-white hover:text-amber-500" href="https://linkedin.com">
+                    <a className="text-white hover:text-amber-500" href="https://www.instagram.com/thiago_gravonski/" target="_blank">
                         <FontAwesomeIcon icon={faInstagram} size="2xl" />
                     </a>
                 </div>

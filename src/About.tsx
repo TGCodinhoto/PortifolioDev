@@ -1,4 +1,5 @@
 import Perfil from '../src/Perfil.png'
+import Curriculo from '../src/Currículo Atualizado 2025.pdf'
 
 function About() {
     return (
@@ -24,7 +25,7 @@ function About() {
 
                         <div></div>
 
-                        <a href="#about" className="flex items-center justify-center md:justify-start"><button className="mt-4 bg-amber-500 cursor-pointer rounded-2xl py-2 px-6 transition delay-100 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-white font-bold hover:text-amber-500 hover:font-bold items">Download CV</button></a>
+                        <a href="src\Currículo Atualizado 2025.pdf" download={Curriculo} className="flex items-center justify-center md:justify-start"><button className="mt-4 bg-amber-500 cursor-pointer rounded-2xl py-2 px-6 transition delay-100 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-white font-bold hover:text-amber-500 hover:font-bold items">Download CV</button></a>
 
                     </div>
                 </div>

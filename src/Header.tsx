@@ -58,6 +58,9 @@ function Header() {
           <a className="block text-white hover:text-amber-500" href="#about">
             Sobre
           </a>
+          <a className="block text-white hover:text-amber-500" href="#skills">
+            Skills
+          </a>
           <a className="block text-white hover:text-amber-500" href="#projects">
             Projetos
           </a>
