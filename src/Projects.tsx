@@ -1,6 +1,6 @@
-import PetDev from '../src/PetDev.png'
-import Hamb from '../src/Hamburgueria.png'
-import Barber from '../src/Mr-Barber.png'
+import PetDev from '../public/PetDev.png'
+import Hamb from '../public/Hamburgueria.png'
+import Barber from '../public/Mr-Barber.png'
 
 
 function Projects() {

@@ -1,4 +1,4 @@
-import Perfil from '../src/Perfil.png'
+import Perfil from '../public/Perfil.png'
 import Curriculo from '../src/Currículo Atualizado 2025.pdf'
 
 function About() {
