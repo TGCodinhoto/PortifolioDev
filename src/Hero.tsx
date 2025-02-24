@@ -1,7 +1,7 @@
 
 function Hero() {
   return (
-    <section className="h-dvh bg-cover bg-center bg-[url(/public\paralax.jpg)] py-20 text-white parallax flex justify-center items-center">
+    <section className="h-dvh bg-cover bg-center bg-[url(paralax.jpg)] py-20 text-white parallax flex justify-center items-center">
 
       <div className="container mx-auto px-6 text-center flex flex-col justify-center items-center tracking-wide z-20">
         <h1 className="text-5xl md:text-6xl">
